@@ -1,0 +1,17 @@
+#cards_box {
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+    background-color: #444444;
+    border: 2px solid lightblue;
+    border-radius: 10px;
+
+    box-shadow: 10px 10px 10px 5px rgba(0,0,0,0.65);
+    -webkit-box-shadow: 10px 10px 10px 5px rgba(0,0,0,0.65);
+    -moz-box-shadow: 10px 10px 10px 5px rgba(0,0,0,0.65);
+}

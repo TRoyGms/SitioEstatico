@@ -1,0 +1,9 @@
+#cards_text {
+    width: 80%;
+    border-radius: 0px;
+    border: 2px solid rgb(68, 68, 68);
+    border-radius: 10px;
+    padding: 5px;
+    text-align: left;
+    font-size: 18px;
+}

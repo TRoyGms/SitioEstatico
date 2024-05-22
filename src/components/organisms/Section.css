@@ -1,0 +1,45 @@
+#cards_section1 {
+    margin-top: 154px;
+    width: 95%;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+}
+
+#S1 {
+    margin-left: 35px;
+    padding: 0px;
+    color: black;
+}
+
+#cards_section2 {
+    color: azure;
+    padding: 10px;
+    background-color: rgb(31, 31, 31);
+    margin-top: 15px;
+    width: 95%;
+    margin: 10px 0;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+#S2 {
+    margin-left: 35px;
+    padding: 0px;
+}
+
+#cards_section3 {
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 15px;
+    width: 95%;
+    margin: 10px 0;
+    border: 2px solid rgb(0, 0, 0);
+    margin-bottom: 150px;
+    color: azure;
+}
+
+#S3 {
+    margin-left: 35px;
+    padding: 0px;
+    color: black;
+}
